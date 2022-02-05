@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url("image/background.jpg");
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(0, 6, 0, 0.6); 
+    color: rgba(0, 6, 0, 0.6);
+    margin-right: 270px;
+    margin-left: 270px;
+    margin-top: 30PX;
+    padding:80px 70px 60px;
+    border-radius: 8px;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: -20px;
+}
+
+
+.hero-section {
+    text-align: center;
+
+}
+
+.title {
+    color: #00D500;
+}
+
+.button {
+    background-color: #00D500;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.monopattino1, .monopattino2, .monopattino3 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.titolo-monopattino {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.carica1 {
+    background-color: orange;
+    width: 300px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.carica2 {
+    background-color: green;
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.carica3 {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.indirizzo {
+    margin-top: 7px;
+    margin-bottom: 4px;
+}
